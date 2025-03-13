@@ -16,5 +16,5 @@ jobs:
       with:
         server: dms-staging.pakcr.org
         username: dms_pakcr
-        password: ?K*8-6NI[1tO
+        password: pakcr@dms
         server-dir: /public_html/
