@@ -14,7 +14,7 @@ jobs:
     - name: 📂 Sync files
       uses: SamKirkland/FTP-Deploy-Action@4.0.0
       with:
-        server: dms-staging.pakcr.org
-        username: dms_pakcr
-        password: pakcr@dms
+        server: "ftp.dms-staging.pakcr.org"
+        username: "dms_pakcr"
+        password: "pakcr@dms"
         server-dir: /public_html/
